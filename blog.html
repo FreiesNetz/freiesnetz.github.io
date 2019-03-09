@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+
   <head>
-    <title>FreiesNetz.at - Blog</title>
+    <title>Blog</title>
 
     <!-- meta -->
     <meta charset="utf-8">
@@ -15,11 +16,11 @@
     <base href="">
 
     <!-- open graph -->
-    <meta property="og:url" content="http://page.onetrix.net/blog.html.html">
+    <meta property="og:url" content="">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="FreiesNetz.at - Blog">
-    <meta property="og:description" content="Read our posts on our blog">
-    <meta property="og:image" content="{{page.image}}">
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
 
     <!-- icons -->
     <link theme-icon="" href="resources/icon.png" rel="icon">
@@ -31,74 +32,110 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <!-- css -->
-    <link type="text/css" href="css/site.min.css?v=5c7b92b0a6cdf" rel="stylesheet">
+    <link type="text/css" href="css/site.min.css" rel="stylesheet">
 
     <!-- google maps -->
     <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 
-    
+  </head>
 
-  <style respond-settings></style></head>
-  <body class="content" data-lastmodified="2019-03-03T08:39:12+0000" data-template="default" data-tags="" show-cart="false">
-    <div class="wrapper">
-      <div class="canvas">
+  <body class="content">
 
-        <div class="toggle-nav"><i class="material-icons">menu</i></div>
+    <header role="banner">
 
-        <nav class="side-nav" role="navigation">
-          <a class="brand" href="index.html"><img theme-logo="" src="resources/logo.png"></a>
-          <ul respond-plugin="" type="menu" menu="primary"><li><a class="nav-link" href="index.html">Home</a></li><li class="nav-item active "><a class="nav-link" href="blog.html">Blog</a></li><li><a class="nav-link" href="gallery.html">Gallery</a></li><li><a class="nav-link" href="page/about.html">About</a></li><li><a class="nav-link" href="page/contact.html">Contact</a></li></ul>
+      <nav class="navbar navbar-expand-md navbar-light justify-content-end">
 
-          <a class="primary-nav-secondary" respond-cart="" cart-toggle=""><span>Cart</span> (<span cart-total>$0.00</span>)</a>
-          <a class="primary-nav-secondary" respond-search="">Search</a>
+        <a class="navbar-brand" href="index"><img theme-logo="" src="resources/logo.png"></a>
 
-        </nav>
-        <!-- /.side-nav -->
+        <div id="header-primary-menu" class="primary-menu collapse navbar-collapse">
 
-        <main class="container" role="main">
-          <div class="row">
+          <ul respond-plugin="" type="menu" menu="primary" class="navbar-nav ml-auto"><li><a class="nav-link" href="index.html">Home</a></li><li class="nav-item active "><a class="nav-link" href="blog.html">Blog</a></li><li><a class="nav-link" href="gallery.html">Gallery</a></li><li><a class="nav-link" href="page/about.html">About</a></li><li><a class="nav-link" href="page/contact.html">Contact</a></li></ul>
 
-            <div class="col col-md-12">
-              <h1>Blog</h1>
+        </div>
 
-        		  <h4>Most Recent Post</h4>
-        		  <div respond-plugin="" type="featured-post"><div class="row"><div class="col col-md-12"><h1 class="page-title">Neues CMS und neue Webseite!</h1><p class="page-description"></p><p>Cool! Neue Webseite auf Basis von:&nbsp;<a></a><a href="https://respondcms.com/" target="" title="">RespondCMS</a></p><p>blablabla test blog post...</p></div></div></div>
+        <div class="header-actions">
 
-        		  <h4>More Posts</h4>
-        		  <div respond-plugin="" type="recent-posts" class="recent-posts"><div class="list-item"><h5><a href="post/neues-cms-und-neue-webseite.html">FreiesNetz.at - Blog - Neues CMS und neue Webseite!</a></h5><p></p></div><div class="list-item"><h5><a href="post/sample-blog-post.html">FreiesNetz.at - Blog - Sample Blog Post</a></h5><p>Read our sample blog post</p></div><div class="list-item"><h5><a href="post/another-blog-post.html">FreiesNetz.at - Blog - Another Blog Post</a></h5><p>Read our sample blog post</p></div></div>
-            </div>
+          <a class="header-action d-md-none" data-toggle="collapse" data-target="#header-primary-menu">
+            <i class="material-icons">menu</i>
+          </a>
 
-          </div>
-        </main>
+          <a class="header-action" respond-cart="" cart-toggle="">
+            <i class="material-icons">shopping_cart</i> <span cart-total="">$0.00</span>
+          </a>
 
-        <footer role="contentinfo">
-          <div class="container">
-            <div class="block row">
-              <div class="col col-md-12">
-                <h3>About</h3>
-                <p>This site is powered by <a href="http://respondcms.com">Respond CMS</a>. Respond CMS is an open source content management system that you can use to build beautiful, responsive websites. The latest version features Bootstrap 3.0, robust themes, a complete REST API, and a beautiful UI. Images from <a href="https://unsplash.com/">Unsplash</a>.</p>
-              </div>
-            </div>
-            <div class="block row">
-              <div class="col col-md-12 text-center">
+          <a class="header-action" respond-search="">
+            <i class="material-icons">search</i>
+          </a>
 
-                <ul respond-plugin="" type="menu" menu="footer"><li><a class="nav-link" href="index.html">Home</a></li><li class="nav-item active "><a class="nav-link" href="blog.html">Blog</a></li><li><a class="nav-link" href="gallery.html">Gallery</a></li><li><a class="nav-link" href="page/about.html">About</a></li><li><a class="nav-link" href="page/contact.html">Contact</a></li></ul>
+        </div>
 
-              </div>
-            </div>
-          </div>
-          <div respond-plugin="" type="cart"></div>
-        </footer>
+      </nav>
 
+    </header>
+    <!-- /header -->
+
+    <main role="main">
+
+      <div class="row full-width top-no-spacing bottom-no-spacing">
+        <div class="col col-md-12">
+          <div respond-plugin="" type="featured-post"><div class="row full-width center-content top-half-spacing bottom-no-spacing"><div class="col col-md-12"><h1>Sample Blog Post</h1><div class="divider"><span></span></div></div></div><div class="row top-half-spacing bottom-big-spacing"><div class="col col-md-12"><p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis mollis arcu, eget posuere libero faucibus sit amet. Cras pharetra pellentesque augue, id vestibulum nisi pharetra et. Morbi in dapibus leo. Vivamus vehicula risus vel eros
+            interdum et mattis tortor congue. Sed gravida interdum est, sit amet pretium nisl consectetur at. In hac habitasse platea dictumst. In purus enim, elementum porttitor tincidunt volutpat, fermentum quis ante. Vivamus at est sem, quis ornare
+            lorem. Cras pulvinar est eget nisi iaculis consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis mollis arcu, eget posuere libero faucibus sit amet. Cras pharetra pellentesque augue, id vestibulum nisi pharetra
+            et. Morbi in dapibus leo. Vivamus vehicula risus vel eros interdum et mattis tortor congue. Sed gravida interdum est, sit amet pretium nisl consectetur at. In hac habitasse platea dictumst. In purus enim, elementum porttitor tincidunt volutpat,
+            fermentum quis ante. Vivamus at est sem, quis ornare lorem. Cras pulvinar est eget nisi iaculis consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis mollis arcu, eget posuere libero faucibus sit amet. Cras pharetra
+            pellentesque augue, id vestibulum nisi pharetra et. Morbi in dapibus leo. Vivamus vehicula risus vel eros interdum et mattis tortor congue. Sed gravida interdum est, sit amet pretium nisl consectetur at. In hac habitasse platea dictumst. In
+            purus enim, elementum porttitor tincidunt volutpat, fermentum quis ante. Vivamus at est sem, quis ornare lorem. Cras pulvinar est eget nisi iaculis consequat. </p><blockquote id="q-2"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis mollis arcu, eget posuere libero faucibus sit amet. Cras pharetra pellentesque augue, id vestibulum nisi pharetra et. Morbi in dapibus leo. Vivamus vehicula risus vel eros
+            interdum et mattis tortor congue. Sed gravida interdum est, sit amet pretium nisl consectetur at. In hac habitasse platea dictumst. In purus enim, elementum porttitor tincidunt volutpat, fermentum quis ante. Vivamus at est sem, quis ornare
+            lorem. Cras pulvinar est eget nisi iaculis consequat. </blockquote><p id="p-2"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis mollis arcu, eget posuere libero faucibus sit amet. Cras pharetra pellentesque augue, id vestibulum nisi pharetra et. Morbi in dapibus leo. Vivamus vehicula risus vel eros
+            interdum et mattis tortor congue. Sed gravida interdum est, sit amet pretium nisl consectetur at. In hac habitasse platea dictumst. In purus enim, elementum porttitor tincidunt volutpat, fermentum quis ante. Vivamus at est sem, quis ornare
+            lorem. Cras pulvinar est eget nisi iaculis consequat. </p></div></div></div>
+        </div>
       </div>
-      <!-- /.wrapper -->
-    </div>
-    <!-- /.canvass -->
+
+      <div class="row full-width center-content top-half-spacing bottom-no-spacing">
+          <div class="col col-md-12">
+              <h3>Recent Posts</h3>
+
+              <div class="divider"><span></span></div>
+          </div>
+      </div>
+
+      <div class="row top-no-spacing bottom-big-spacing">
+        <div class="col col-md-12">
+          <div respond-plugin="" type="recent-posts" class="recent-posts"><div class="list-item"><h5><a href="post/sample-blog-post.html">Sample Blog Post</a></h5><p>Read our sample blog post</p></div><div class="list-item"><h5><a href="post/another-blog-post.html">Another Blog Post</a></h5><p>Read our sample blog post</p></div></div>
+        </div>
+      </div>
+
+    </main>
+
+    <footer role="contentinfo">
+
+      <div class="container">
+        <div class="row">
+          <div class="col col-md-6">
+            <h3>Contact</h3>
+            <p>Give us a call at (123) 456-7890 or email us at <a href="mailto:sample@sample.com">sample@sample.com</a></p>
+          </div>
+          <div class="col col-md-6">
+            <h3>About</h3>
+            <p>This site is powered by <a href="http://respondcms.com">Respond CMS</a>. Respond CMS is an open source content management system that you can use to build beautiful, responsive websites. The latest version features Bootstrap 3.0, robust themes, a complete REST API, and a beautiful UI. Images from <a href="https://unsplash.com/">Unsplash</a>.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col col-md-12">
+            <ul respond-plugin="" type="menu" menu="footer"><li><a class="nav-link" href="index.html">Home</a></li><li class="nav-item active "><a class="nav-link" href="blog.html">Blog</a></li><li><a class="nav-link" href="gallery.html">Gallery</a></li><li><a class="nav-link" href="page/about.html">About</a></li><li><a class="nav-link" href="page/contact.html">Contact</a></li></ul>
+          </div>
+        </div>
+      </div>
+      <!-- /.container -->
+      <div respond-plugin="" type="cart"></div>
+
+    </footer>
+    <!-- /footer -->
+
   </body>
 
-<!-- js -->
-<script src="js/site.all.js?v=5c7b92b0a6cdf"></script>
-
-
+  <!-- js -->
+  <script src="js/site.all.js"></script>
 
 </html>
