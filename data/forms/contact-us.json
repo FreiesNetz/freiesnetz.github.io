@@ -1,0 +1,74 @@
+{
+    "id": "contact-us",
+    "name": "Contact Us",
+    "description": null,
+    "url": "page\/contact",
+    "cssClass": "",
+    "validate": null,
+    "success": null,
+    "error": null,
+    "recaptchaError": null,
+    "notify": null,
+    "fields": [
+        {
+            "id": "name",
+            "label": "* Name",
+            "type": "text",
+            "required": "true",
+            "options": "",
+            "helperText": "",
+            "placeholder": "",
+            "cssClass": ""
+        },
+        {
+            "id": "email",
+            "label": "E-Mail",
+            "type": "text",
+            "required": "false",
+            "options": "",
+            "helperText": "",
+            "placeholder": "",
+            "cssClass": ""
+        },
+        {
+            "id": "phone",
+            "label": "Telefon",
+            "type": "text",
+            "required": "false",
+            "options": "",
+            "helperText": "",
+            "placeholder": "",
+            "cssClass": ""
+        },
+        {
+            "id": "preferred",
+            "label": "* Bevorzugte Kontaktaufnahme",
+            "type": "radiolist",
+            "required": "true",
+            "options": "E-Mail, Telefon",
+            "helperText": "",
+            "placeholder": "",
+            "cssClass": ""
+        },
+        {
+            "id": "adresse",
+            "label": "* Adresse",
+            "type": "text",
+            "required": "true",
+            "options": "",
+            "helperText": "Adresse des Standorts wo ein Aufbau m\u00f6glich w\u00e4re.",
+            "placeholder": "",
+            "cssClass": ""
+        },
+        {
+            "id": "comments",
+            "label": "Kommentar",
+            "type": "textarea",
+            "required": "false",
+            "options": "",
+            "helperText": "",
+            "placeholder": "",
+            "cssClass": ""
+        }
+    ]
+}
