@@ -1,8 +1,14 @@
 {
     "id": "contact-us",
     "name": "Contact Us",
+    "description": null,
+    "url": "page\/contact",
     "cssClass": "",
-    "url": "page/contact",
+    "validate": null,
+    "success": null,
+    "error": null,
+    "recaptchaError": null,
+    "notify": null,
     "fields": [
         {
             "id": "name",
