@@ -26,8 +26,8 @@
         {
             "cssClass": "",
             "isNested": false,
-            "html": "Gallery",
-            "url": "gallery",
+            "html": "Gallerie",
+            "url": "gallery.html",
             "target": ""
         },
         {
