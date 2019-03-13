@@ -15,29 +15,27 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T19:21:26+0000",
+        "lastModifiedDate": "2019-03-13T23:39:49+0000",
         "template": "default"
     },
     {
         "title": "Gallerie",
         "description": "Montagebeispiele",
-        "text": "Gallerie Montage Beispiele photo_libraryGallery",
+        "text": "Gallerie Montage Beispiele",
         "keywords": "",
         "tags": "",
         "callout": "",
         "url": "gallery",
-        "photo": "files\/giebeldach.jpg",
-        "thumb": "files\/thumbs\/giebeldach.jpg",
+        "photo": "files\/thumbs\/waschbetonplatten.jpg",
+        "thumb": "files\/thumbs\/\/waschbetonplatten.jpg",
         "location": "",
         "language": "en",
         "direction": "ltr",
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T23:31:17+0000",
-        "template": "default",
-        "customHeader": "",
-        "customFooter": ""
+        "lastModifiedDate": "2019-03-13T23:39:49+0000",
+        "template": "default"
     },
     {
         "title": "Home",
@@ -47,18 +45,16 @@
         "tags": "",
         "callout": "",
         "url": "index",
-        "photo": "files\/favicon.png",
-        "thumb": "files\/thumbs\/favicon.png",
+        "photo": "",
+        "thumb": "",
         "location": "",
         "language": "en",
         "direction": "ltr",
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T23:23:55+0000",
-        "template": "home",
-        "customHeader": "",
-        "customFooter": ""
+        "lastModifiedDate": "2019-03-13T23:39:39+0000",
+        "template": "home"
     },
     {
         "title": "About",
@@ -76,7 +72,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T19:21:26+0000",
+        "lastModifiedDate": "2019-03-13T23:39:49+0000",
         "template": "default"
     },
     {
@@ -95,7 +91,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T19:21:26+0000",
+        "lastModifiedDate": "2019-03-13T23:39:49+0000",
         "template": "default"
     },
     {
@@ -114,7 +110,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T19:21:26+0000",
+        "lastModifiedDate": "2019-03-13T23:39:49+0000",
         "template": "default"
     },
     {
@@ -133,7 +129,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T19:21:26+0000",
+        "lastModifiedDate": "2019-03-13T23:39:49+0000",
         "template": "default"
     },
     {
@@ -152,7 +148,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T19:21:26+0000",
+        "lastModifiedDate": "2019-03-13T23:39:49+0000",
         "template": "default"
     }
 ]

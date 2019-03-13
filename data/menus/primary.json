@@ -5,8 +5,8 @@
         {
             "cssClass": "",
             "isNested": false,
-            "html": "Home",
-            "url": "index",
+            "html": "Start",
+            "url": "index.html",
             "target": ""
         },
         {
@@ -21,7 +21,7 @@
             "cssClass": "",
             "isNested": false,
             "url": "https:\/\/map.funkfeuer.at\/nodemap\/map-vchrizz.html",
-            "target": ""
+            "target": "_blank"
         },
         {
             "cssClass": "",
