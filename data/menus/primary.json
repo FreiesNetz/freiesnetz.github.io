@@ -40,8 +40,8 @@
         {
             "cssClass": "",
             "isNested": false,
-            "html": "Contact",
-            "url": "page\/contact",
+            "html": "Kontakt",
+            "url": "page\/contact.html",
             "target": ""
         }
     ]
