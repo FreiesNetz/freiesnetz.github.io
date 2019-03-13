@@ -1,21 +1,41 @@
 {
     "id": "sample-gallery",
     "name": "Sample Gallery",
-    "url": "gallery",
     "images": [
         {
-            "id": "balloon-png",
-            "name": "balloon.png",
-            "url": "files\/balloon.png",
-            "thumb": "files\/thumbs\/balloon.png",
-            "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            "id": "waschbetonplatten-jpg",
+            "name": "waschbetonplatten.jpg",
+            "url": "files\/waschbetonplatten.jpg",
+            "thumb": "files\/thumbs\/waschbetonplatten.jpg",
+            "caption": "Montage auf Flachdach mit Waschbetonplatten"
         },
         {
-            "id": "limes-png",
-            "name": "limes.png",
-            "url": "files\/limes.png",
-            "thumb": "files\/thumbs\/limes.png",
-            "caption": "Vivamus vehicula risus vel eros interdu."
+            "id": "werbegeruest-jpg",
+            "name": "werbegeruest.jpg",
+            "url": "files\/werbegeruest.jpg",
+            "thumb": "files\/thumbs\/werbegeruest.jpg",
+            "caption": "Montage auf Werbeger\u00fcst"
+        },
+        {
+            "id": "giebeldach-jpg",
+            "name": "giebeldach.jpg",
+            "url": "files\/giebeldach.jpg",
+            "thumb": "files\/thumbs\/giebeldach.jpg",
+            "caption": "Montage auf Giebeldach"
+        },
+        {
+            "id": "kamineinfassung-jpg",
+            "name": "kamineinfassung.jpg",
+            "url": "files\/kamineinfassung.jpg",
+            "thumb": "files\/thumbs\/kamineinfassung.jpg",
+            "caption": "Montage mit Kamineinfassung"
+        },
+        {
+            "id": "gittersteg-jpg",
+            "name": "gittersteg.jpg",
+            "url": "files\/gittersteg.jpg",
+            "thumb": "files\/thumbs\/gittersteg.jpg",
+            "caption": "Montage auf Gittersteg"
         }
     ]
 }

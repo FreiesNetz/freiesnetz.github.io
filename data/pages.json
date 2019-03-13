@@ -21,21 +21,23 @@
     {
         "title": "Gallery",
         "description": "View images in our gallery",
-        "text": "Gallery Sample Gallery",
+        "text": "Gallery Montage Beispiele photo_libraryGallery",
         "keywords": "",
         "tags": "",
         "callout": "",
         "url": "gallery",
-        "photo": "files\/thumbs\/balloon.png",
-        "thumb": "files\/thumbs\/\/balloon.png",
+        "photo": "files\/giebeldach.jpg",
+        "thumb": "files\/thumbs\/giebeldach.jpg",
         "location": "",
         "language": "en",
         "direction": "ltr",
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T19:21:26+0000",
-        "template": "default"
+        "lastModifiedDate": "2019-03-13T23:08:34+0000",
+        "template": "default",
+        "customHeader": "",
+        "customFooter": ""
     },
     {
         "title": "Home",
