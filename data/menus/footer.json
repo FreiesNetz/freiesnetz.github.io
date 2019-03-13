@@ -6,31 +6,42 @@
             "cssClass": "",
             "isNested": false,
             "html": "Home",
-            "url": "index"
+            "url": "index",
+            "target": ""
         },
         {
             "cssClass": "",
             "isNested": false,
             "html": "Blog",
-            "url": "blog"
+            "url": "blog",
+            "target": ""
+        },
+        {
+            "html": "Map",
+            "cssClass": "",
+            "isNested": false,
+            "url": "https:\/\/map.funkfeuer.at\/nodemap\/map-vchrizz.html",
+            "target": "_blank"
         },
         {
             "cssClass": "",
             "isNested": false,
             "html": "Gallery",
-            "url": "gallery"
+            "url": "gallery",
+            "target": ""
         },
         {
             "cssClass": "",
             "isNested": false,
             "html": "About",
-            "url": "page\/about"
+            "url": "page\/about",
+            "target": ""
         },
         {
             "cssClass": "",
             "isNested": false,
             "html": "Kontakt",
-            "url": "page\/contact.html",
+            "url": "page\/contact",
             "target": ""
         }
     ]
