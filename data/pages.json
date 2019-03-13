@@ -15,7 +15,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:32:50+0000",
+        "lastModifiedDate": "2019-03-13T12:26:40+0000",
         "template": "default"
     },
     {
@@ -26,39 +26,35 @@
         "tags": "",
         "callout": "",
         "url": "gallery",
-        "photo": "files\/balloon.png",
-        "thumb": "files\/thumbs\/balloon.png",
+        "photo": "files\/thumbs\/balloon.png",
+        "thumb": "files\/thumbs\/\/balloon.png",
         "location": "",
         "language": "en",
         "direction": "ltr",
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T11:33:38+0000",
-        "template": "default",
-        "customHeader": null,
-        "customFooter": null
+        "lastModifiedDate": "2019-03-13T12:26:40+0000",
+        "template": "default"
     },
     {
         "title": "Home",
         "description": "Welcome to our site",
-        "text": "FreiesNetz - Das organisierte Brgernetz Unabhngige Infrastruktur durch dezentrales Netzwerk. Jeder Teilnehmer erweitert das Netzwerk und wird dadurch automatisch Teil davon.Je mehr Teilnehmer, desto mehr Mglichkeiten auf mehr Performance im Netz. Mitmachen! ... von Brger fr Brger ... FreiesNetz ist eine offene Initiative fr freie Netzwerke. Jede Person stellt ihren Knoten anderen zur Datenbertragung (nach den Grundstzen des Pico Peering Agreement) zur Verfgung und ermglicht damit freien Datenverkehr innerhalb des Netzes. settings_ethernet Richt-Funk Durch Nutzung von gerichteten Funk-Signalen knnen auch Gebude versorgt werden, welche noch nicht mit Kabelverbindung wie z.B. DSL oder Glasfaser erschlossen sind. call_made Dezentrales Netz Verbindungen sind nach keinem besonderen Schema angeordnet, die einzelnen Knoten sind untereinander mehrfach miteinander verbunden (vermascht). network_check Performance Fokus auf wichtige Performance-relevante Parameter damit soviel Bandbreite wie mglich beim Endanwender ankommt bzw. abtransportiert werden kann.",
+        "text": "FreiesNetz - Das organisierte Brgernetz Unabhngige Infrastruktur durch dezentrales Netzwerk. Jeder Teilnehmer erweitert das Netzwerk und wird dadurch automatisch Teil davon.Je mehr Teilnehmer, desto mehr Mglichkeiten auf mehr Performance im Netz. Mitmachen! Netzwerk FreiesNetz ist eine offene Initiative fr alle Netzwerke. Jede Person stellt ihren Knoten anderen zur Datenbertragung (nach den Grundstzen des&nbsp;Pico Peering Agreement) zur Verfgung und ermglicht damit den Datenverkehr innerhalb des Netzes.&nbsp;Alle Knoten im Netz kommunizieren hierarchielos untereinander und bilden ein gemeinsames Funknetzwerk ber den Dchern. Dabei gibt es keine Zentrale, jeder Knoten ist mit mehreren anderen Knoten verbunden. Wenn ein Knoten aus dem Netzwerk ausfllt suchen dessen Nachbarn automatisch eine andere Route.&nbsp; settings_ethernet Richt-Funk Durch Nutzung von gerichteten Funk-Signalen knnen auch Gebude versorgt werden, welche noch nicht mit Kabelverbindung wie z.B. DSL oder Glasfaser erschlossen sind. call_made Dezentral Verbindungen sind nach keinem besonderen Schema angeordnet, die einzelnen Knoten sind untereinander mehrfach miteinander verbunden (vermascht). network_check Performant Fokus auf wichtige Performance-relevante Parameter damit soviel Bandbreite wie mglich beim Endanwender ankommt bzw. abtransportiert werden kann.",
         "keywords": "",
         "tags": "",
         "callout": "",
         "url": "index",
-        "photo": "files\/favicon.png",
-        "thumb": "files\/thumbs\/favicon.png",
-        "location": "1010 Wien, Stephansplatz 9",
+        "photo": "",
+        "thumb": "",
+        "location": "",
         "language": "en",
         "direction": "ltr",
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T12:21:26+0000",
-        "template": "home",
-        "customHeader": "",
-        "customFooter": ""
+        "lastModifiedDate": "2019-03-13T12:32:41+0000",
+        "template": "home"
     },
     {
         "title": "About",
@@ -76,13 +72,13 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:32:50+0000",
+        "lastModifiedDate": "2019-03-13T12:26:40+0000",
         "template": "default"
     },
     {
         "title": "Kontakt",
         "description": "Get in touch using our contact form",
-        "text": "VoranmeldungWir sind laufend auf der Suche nach neuen Standorten. Gibt es die Mglichkeit fr einen Aufbau am Dach, bitte im folgenden Formular eintragen:Bitte um Angabe von E-Mail Adresse und\/oder Telefon Nummer damit wir uns melden knnen. check_boxForm",
+        "text": "VoranmeldungWir sind laufend auf der Suche nach neuen Standorten. Gibt es die Mglichkeit fr einen Aufbau am Dach, bitte im folgenden Formular eintragen:Bitte um Angabe von E-Mail Adresse und\/oder Telefon Nummer damit wir uns melden knnen. * Name* EmailPhone* Preferred Contact MethodEmail PhoneCommentsSubmitThere was an error submitting your form",
         "keywords": "",
         "tags": "",
         "callout": "",
@@ -95,10 +91,8 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T11:54:12+0000",
-        "template": "default",
-        "customHeader": "",
-        "customFooter": ""
+        "lastModifiedDate": "2019-03-13T12:26:40+0000",
+        "template": "default"
     },
     {
         "title": "Error",
@@ -116,7 +110,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:32:50+0000",
+        "lastModifiedDate": "2019-03-13T12:26:40+0000",
         "template": "default"
     },
     {
@@ -135,7 +129,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:32:50+0000",
+        "lastModifiedDate": "2019-03-13T12:26:40+0000",
         "template": "default"
     },
     {
@@ -154,7 +148,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:32:50+0000",
+        "lastModifiedDate": "2019-03-13T12:26:40+0000",
         "template": "default"
     }
 ]
