@@ -15,7 +15,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:31:40+0000",
+        "lastModifiedDate": "2019-03-13T10:32:50+0000",
         "template": "default"
     },
     {
@@ -26,34 +26,36 @@
         "tags": "",
         "callout": "",
         "url": "gallery",
-        "photo": "files\/thumbs\/balloon.png",
-        "thumb": "files\/thumbs\/\/balloon.png",
+        "photo": "files\/balloon.png",
+        "thumb": "files\/thumbs\/balloon.png",
         "location": "",
         "language": "en",
         "direction": "ltr",
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:31:40+0000",
-        "template": "default"
+        "lastModifiedDate": "2019-03-13T11:33:38+0000",
+        "template": "default",
+        "customHeader": null,
+        "customFooter": null
     },
     {
         "title": "Home",
         "description": "Welcome to our site",
-        "text": "FreiesNetz - Das organisierte Brgernetz Unabhngige Infrastruktur durch dezentrales Netzwerk. Jeder Teilnehmer erweitert das Netzwerk und wird dadurch automatisch Teil davon.Je mehr Teilnehmer, desto mehr Mglichkeiten auf mehr Performance im Netz. Mitmachen! Eine dezentrale Alternative zu Internet Service Providern Because a picture is worth a thousand words, all of our themes feature beautiful photography meant to gain the viewers attention and draw them into the site. All images in the themes are completely configurable, so use the included image or choose one that better matches your product or service. settings_ethernet Infinitely Configurable All images, layout, and text within our themes are completely editable using our beautiful, visual editor. So, you can quickly modify our themes to match your product or service's brand. With our easy-to-use editor, it is as simple as pointing and clicking to modify any content on your page. call_made Ready for the Future The future of the web is all about speed and flexibility. All of our themes are built with this future in mind. Bootstrap makes them responsive and our unique build process makes them fast. You can be assured that when you build a site using our theme, your site will be ready for years to come. smartphone Mobile First If the future of your business is mobility, then your site must run fast on mobile devices. All of our themes are built from the ground up to ensure a great experience on mobile devices. Whether your customers are running Android or iOS, we guarantee a smooth browsing experience. A Great User Experience All of our themes provide a great out-of-box User Experience. Each home page contains an easy way to show your product's feature set, provide social proof, display location map, and provide a call-to-action. Hear what others are saying This theme was exactly what I have been waiting for. I was able to get my site up and running fast. I would highly recommend this as a basis for your site. @sample via Twitter This theme was exactly what I have been waiting for. I was able to get my site up and running fast. I would highly recommend this as a basis for your site. &gt;Susan Thomas via Facebook This theme was exactly what I have been waiting for. I was able to get my site up and running fast. I would highly recommend this as a basis for your site. @sample via Twitter This theme was exactly what I have been waiting for. I was able to get my site up and running fast. I would highly recommend this as a basis for your site. &gt;Susan Thomas via Facebook Come Visit Us var map; function initMap() { map = new google.maps.Map(document.getElementById('map'), { center: {lat: -34.397, lng: 150.644}, zoom: 8 }); }",
+        "text": "FreiesNetz - Das organisierte Brgernetz Unabhngige Infrastruktur durch dezentrales Netzwerk. Jeder Teilnehmer erweitert das Netzwerk und wird dadurch automatisch Teil davon.Je mehr Teilnehmer, desto mehr Mglichkeiten auf mehr Performance im Netz. Mitmachen! ... von Brger fr Brger ... FreiesNetz ist eine offene Initiative fr freie Netzwerke. Jede Person stellt ihren Knoten anderen zur Datenbertragung (nach den Grundstzen des Pico Peering Agreement) zur Verfgung und ermglicht damit freien Datenverkehr innerhalb des Netzes. settings_ethernet Richt-Funk Durch Nutzung von gerichteten Funk-Signalen knnen auch Gebude versorgt werden, welche noch nicht mit Kabelverbindung wie z.B. DSL oder Glasfaser erschlossen sind. call_made Dezentrales Netz Verbindungen sind nach keinem besonderen Schema angeordnet, die einzelnen Knoten sind untereinander mehrfach miteinander verbunden (vermascht). network_check Performance Fokus auf wichtige Performance-relevante Parameter damit soviel Bandbreite wie mglich beim Endanwender ankommt bzw. abtransportiert werden kann.",
         "keywords": "",
         "tags": "",
         "callout": "",
         "url": "index",
-        "photo": "resources\/person1.png",
-        "thumb": "resources\/person1.png",
-        "location": "1010 Wien, Stephansplatz 2",
+        "photo": "files\/favicon.png",
+        "thumb": "files\/thumbs\/favicon.png",
+        "location": "1010 Wien, Stephansplatz 9",
         "language": "en",
         "direction": "ltr",
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:33:49+0000",
+        "lastModifiedDate": "2019-03-13T12:21:26+0000",
         "template": "home",
         "customHeader": "",
         "customFooter": ""
@@ -74,13 +76,13 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:31:40+0000",
+        "lastModifiedDate": "2019-03-13T10:32:50+0000",
         "template": "default"
     },
     {
         "title": "Kontakt",
         "description": "Get in touch using our contact form",
-        "text": "VoranmeldungWir sind laufend auf der Suche nach neuen Standorten. Gibt es die Mglichkeit fr einen Aufbau am Dach, bitte im folgenden Formular eintragen:Bitte um Angabe von E-Mail Adresse und\/oder Telefon Nummer damit wir uns melden knnen. * Name* EmailPhone* Preferred Contact MethodEmail PhoneCommentsSubmitThere was an error submitting your form",
+        "text": "VoranmeldungWir sind laufend auf der Suche nach neuen Standorten. Gibt es die Mglichkeit fr einen Aufbau am Dach, bitte im folgenden Formular eintragen:Bitte um Angabe von E-Mail Adresse und\/oder Telefon Nummer damit wir uns melden knnen. check_boxForm",
         "keywords": "",
         "tags": "",
         "callout": "",
@@ -93,8 +95,10 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:31:40+0000",
-        "template": "default"
+        "lastModifiedDate": "2019-03-13T11:54:12+0000",
+        "template": "default",
+        "customHeader": "",
+        "customFooter": ""
     },
     {
         "title": "Error",
@@ -112,7 +116,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:31:40+0000",
+        "lastModifiedDate": "2019-03-13T10:32:50+0000",
         "template": "default"
     },
     {
@@ -131,7 +135,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:31:40+0000",
+        "lastModifiedDate": "2019-03-13T10:32:50+0000",
         "template": "default"
     },
     {
@@ -150,7 +154,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-13T10:31:40+0000",
+        "lastModifiedDate": "2019-03-13T10:32:50+0000",
         "template": "default"
     }
 ]
