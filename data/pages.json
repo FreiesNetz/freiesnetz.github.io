@@ -15,7 +15,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-11T11:28:09+0000",
+        "lastModifiedDate": "2019-03-12T21:07:20+0000",
         "template": "default"
     },
     {
@@ -34,29 +34,27 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-12T19:51:18+0000",
+        "lastModifiedDate": "2019-03-12T21:07:20+0000",
         "template": "default"
     },
     {
         "title": "Home",
         "description": "Welcome to our site",
-        "text": "FreiesNetz - Das organisierte Brgernetz Unabhngige Infrastruktur durch dezentrales Netzwerk. Jeder Teilnehmer erweitert das Netzwerk und wird dadurch automatisch Teil davon.Je mehr Teilnehmer, desto mehr Mglichkeiten auf mehr Performance im Netz. Mitmachen! Eine dezentrale Alternative zu Internet Service Providern Because a picture is worth a thousand words, all of our themes feature beautiful photography meant to gain the viewers attention and draw them into the site. All images in the themes are completely configurable, so use the included image or choose one that better matches your product or service. settings_ethernet Infinitely Configurable All images, layout, and text within our themes are completely editable using our beautiful, visual editor. So, you can quickly modify our themes to match your product or service's brand. With our easy-to-use editor, it is as simple as pointing and clicking to modify any content on your page. call_made Ready for the Future The future of the web is all about speed and flexibility. All of our themes are built with this future in mind. Bootstrap makes them responsive and our unique build process makes them fast. You can be assured that when you build a site using our theme, your site will be ready for years to come. smartphone Mobile First If the future of your business is mobility, then your site must run fast on mobile devices. All of our themes are built from the ground up to ensure a great experience on mobile devices. Whether your customers are running Android or iOS, we guarantee a smooth browsing experience. A Great User Experience All of our themes provide a great out-of-box User Experience. Each home page contains an easy way to show your product's feature set, provide social proof, display location map, and provide a call-to-action. Hear what others are saying This theme was exactly what I have been waiting for. I was able to get my site up and running fast. I would highly recommend this as a basis for your site. @sample via Twitter This theme was exactly what I have been waiting for. I was able to get my site up and running fast. I would highly recommend this as a basis for your site. &gt;Susan Thomas via Facebook This theme was exactly what I have been waiting for. I was able to get my site up and running fast. I would highly recommend this as a basis for your site. @sample via Twitter This theme was exactly what I have been waiting for. I was able to get my site up and running fast. I would highly recommend this as a basis for your site. &gt;Susan Thomas via Facebook Come Visit Us mapMap",
+        "text": "FreiesNetz - Das organisierte Brgernetz Unabhngige Infrastruktur durch dezentrales Netzwerk. Jeder Teilnehmer erweitert das Netzwerk und wird dadurch automatisch Teil davon.Je mehr Teilnehmer, desto mehr Mglichkeiten auf mehr Performance im Netz. Mitmachen! Eine dezentrale Alternative zu Internet Service Providern Because a picture is worth a thousand words, all of our themes feature beautiful photography meant to gain the viewers attention and draw them into the site. All images in the themes are completely configurable, so use the included image or choose one that better matches your product or service. settings_ethernet Infinitely Configurable All images, layout, and text within our themes are completely editable using our beautiful, visual editor. So, you can quickly modify our themes to match your product or service's brand. With our easy-to-use editor, it is as simple as pointing and clicking to modify any content on your page. call_made Ready for the Future The future of the web is all about speed and flexibility. All of our themes are built with this future in mind. Bootstrap makes them responsive and our unique build process makes them fast. You can be assured that when you build a site using our theme, your site will be ready for years to come. smartphone Mobile First If the future of your business is mobility, then your site must run fast on mobile devices. All of our themes are built from the ground up to ensure a great experience on mobile devices. Whether your customers are running Android or iOS, we guarantee a smooth browsing experience. A Great User Experience All of our themes provide a great out-of-box User Experience. Each home page contains an easy way to show your product's feature set, provide social proof, display location map, and provide a call-to-action. Hear what others are saying This theme was exactly what I have been waiting for. I was able to get my site up and running fast. I would highly recommend this as a basis for your site. @sample via Twitter This theme was exactly what I have been waiting for. I was able to get my site up and running fast. I would highly recommend this as a basis for your site. &gt;Susan Thomas via Facebook This theme was exactly what I have been waiting for. I was able to get my site up and running fast. I would highly recommend this as a basis for your site. @sample via Twitter This theme was exactly what I have been waiting for. I was able to get my site up and running fast. I would highly recommend this as a basis for your site. &gt;Susan Thomas via Facebook Come Visit Us 1010 Wien, Stephansplatz 1 Get Directions",
         "keywords": "",
         "tags": "",
         "callout": "",
         "url": "index",
         "photo": "resources\/person1.png",
         "thumb": "resources\/person1.png",
-        "location": "700 Clark Ave, St. Louis, MO 63102",
+        "location": "1010 Wien, Stephansplatz 1",
         "language": "en",
         "direction": "ltr",
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-12T21:51:51+0000",
-        "template": "home",
-        "customHeader": "",
-        "customFooter": ""
+        "lastModifiedDate": "2019-03-13T09:42:01+0000",
+        "template": "home"
     },
     {
         "title": "About",
@@ -74,7 +72,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-11T11:28:10+0000",
+        "lastModifiedDate": "2019-03-12T21:07:20+0000",
         "template": "default"
     },
     {
@@ -93,7 +91,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-12T21:07:06+0000",
+        "lastModifiedDate": "2019-03-12T21:07:20+0000",
         "template": "default"
     },
     {
@@ -112,7 +110,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-11T11:28:10+0000",
+        "lastModifiedDate": "2019-03-12T21:07:20+0000",
         "template": "default"
     },
     {
@@ -131,7 +129,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-11T11:28:10+0000",
+        "lastModifiedDate": "2019-03-12T21:07:20+0000",
         "template": "default"
     },
     {
@@ -150,7 +148,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-11T11:28:10+0000",
+        "lastModifiedDate": "2019-03-12T21:07:20+0000",
         "template": "default"
     }
 ]
