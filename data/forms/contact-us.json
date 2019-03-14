@@ -55,7 +55,7 @@
             "label": "Voraussetzungen f\u00fcr einen Aufbau gegeben?",
             "type": "checklist",
             "required": "false",
-            "options": "1. Bewilligung vorhanden (falls nicht Eigentum), 2. Dachzugang m\u00f6glich, 3. Freie Sicht \u00fcber die Nachbard\u00e4cher",
+            "options": "Bewilligung vorhanden, Dachzugang m\u00f6glich, Freie Sicht \u00fcber die Nachbard\u00e4cher",
             "helperText": "",
             "placeholder": "",
             "cssClass": ""
