@@ -150,5 +150,26 @@
         "lastModifiedBy": "mail@chil.at",
         "lastModifiedDate": "2019-03-14T00:05:10+0000",
         "template": "default"
+    },
+    {
+        "title": "Karte",
+        "description": "",
+        "text": "Karte Wien",
+        "keywords": "",
+        "tags": "",
+        "callout": "",
+        "url": "page\/map",
+        "photo": "",
+        "thumb": "",
+        "language": "en",
+        "direction": "ltr",
+        "firstName": "Christoph",
+        "lastName": "Loesch",
+        "lastModifiedBy": "mail@chil.at",
+        "lastModifiedDate": "2019-03-14T00:59:49+0000",
+        "template": "default",
+        "location": "",
+        "customHeader": "",
+        "customFooter": ""
     }
 ]
