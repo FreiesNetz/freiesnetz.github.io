@@ -51,7 +51,7 @@
             "cssClass": ""
         },
         {
-            "id": "bewilligung",
+            "id": "voraussetzungen",
             "label": "Voraussetzungen f\u00fcr einen Aufbau gegeben?",
             "type": "checklist",
             "required": "false",
