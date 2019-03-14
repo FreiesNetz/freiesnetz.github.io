@@ -62,7 +62,7 @@
         },
         {
             "id": "comments",
-            "label": "Kommentare:",
+            "label": "Kommentar:",
             "type": "textarea",
             "required": "false",
             "options": "",
