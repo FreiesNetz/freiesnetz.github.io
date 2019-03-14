@@ -17,7 +17,7 @@
             "target": ""
         },
         {
-            "html": "Map",
+            "html": "Karte",
             "cssClass": "",
             "isNested": false,
             "url": "https:\/\/map.funkfeuer.at\/nodemap\/map-vchrizz.html",
@@ -26,7 +26,7 @@
         {
             "cssClass": "",
             "isNested": false,
-            "html": "Gallerie",
+            "html": "Fotos",
             "url": "gallery.html",
             "target": ""
         },
