@@ -5,43 +5,29 @@
         {
             "cssClass": "",
             "isNested": false,
-            "html": "Start",
-            "url": "index.html",
-            "target": ""
-        },
-        {
-            "cssClass": "",
-            "isNested": false,
-            "html": "Blog",
-            "url": "blog",
+            "html": "Idee",
+            "url": "page\/about",
             "target": ""
         },
         {
             "html": "Karte",
             "cssClass": "",
             "isNested": false,
-            "url": "https:\/\/map.funkfeuer.at\/nodemap\/map-freiesnetz.html",
+            "url": "https:\/\/map.funkfeuer.at\/nodemap\/map-freiesnetz",
             "target": "_blank"
         },
         {
             "cssClass": "",
             "isNested": false,
             "html": "Fotos",
-            "url": "gallery.html",
-            "target": ""
-        },
-        {
-            "cssClass": "",
-            "isNested": false,
-            "html": "About",
-            "url": "page\/about",
+            "url": "gallery",
             "target": ""
         },
         {
             "cssClass": "",
             "isNested": false,
             "html": "Kontakt",
-            "url": "page\/contact.html",
+            "url": "page\/contact",
             "target": ""
         }
     ]
