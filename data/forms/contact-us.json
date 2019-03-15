@@ -52,7 +52,7 @@
         },
         {
             "id": "voraussetzungen",
-            "label": "Voraussetzungen f\u00fcr einen Aufbau gegeben?",
+            "label": "Voraussetzungen f\u00fcr einen Aufbau schon gegeben?",
             "type": "checklist",
             "required": "false",
             "options": "Bewilligung vorhanden, Dachzugang m\u00f6glich, Freie Sicht \u00fcber die Nachbard\u00e4cher",
