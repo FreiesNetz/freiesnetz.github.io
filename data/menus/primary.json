@@ -3,18 +3,18 @@
     "name": "Primary",
     "items": [
         {
+            "html": "Wien-Map &nbsp; |",
+            "cssClass": "",
+            "isNested": false,
+            "url": "https:\/\/map.funkfeuer.at\/nodemap\/map-freiesnetz.html",
+            "target": "_blank"
+        },
+        {
             "cssClass": "",
             "isNested": false,
             "html": "Idee",
             "url": "page\/about",
             "target": ""
-        },
-        {
-            "html": "Karte",
-            "cssClass": "",
-            "isNested": false,
-            "url": "https:\/\/map.funkfeuer.at\/nodemap\/map-freiesnetz.html",
-            "target": "_blank"
         },
         {
             "cssClass": "",
