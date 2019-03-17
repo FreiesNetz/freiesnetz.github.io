@@ -15,7 +15,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:15:46+0000",
+        "lastModifiedDate": "2019-03-17T12:21:15+0000",
         "template": "default"
     },
     {
@@ -34,7 +34,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:15:46+0000",
+        "lastModifiedDate": "2019-03-17T12:21:15+0000",
         "template": "default"
     },
     {
@@ -53,7 +53,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:15:46+0000",
+        "lastModifiedDate": "2019-03-17T12:21:15+0000",
         "template": "home"
     },
     {
@@ -72,13 +72,13 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:15:46+0000",
+        "lastModifiedDate": "2019-03-17T12:21:15+0000",
         "template": "default"
     },
     {
         "title": "Kontakt",
         "description": "Get in touch using our contact form",
-        "text": "VoranmeldungWir sind laufend auf der Suche nach weiteren Standorten. Bei Interesse bitte folgendes Formular ausfllen.Bei Adresse wird nur Strasse\/Gasse mit Hausnummer bentigt um vorab eine Verfgbarkeit abzuschtzen.Bitte auch um Angabe von E-Mail Adresse und\/oder Telefon Nummer!check_boxForm.",
+        "text": "VoranmeldungWir sind laufend auf der Suche nach weiteren Standorten. Bei Interesse bitte folgendes Formular ausfllen.Bei Adresse wird nur Strasse\/Gasse mit Hausnummer bentigt um vorab eine Verfgbarkeit abzuschtzen.Bitte auch um Angabe von E-Mail Adresse und\/oder Telefon Nummer!* Name:Standort \/ Adresse:E-Mail:Telefon:* Bevorzugte Kontaktaufnahme:E-Mail TelefonVoraussetzungen fr einen Aufbau schon gegeben?Bewilligung vorhanden (bzw. Eigentum) Dachzugang gestattet Freie Sicht ber benachbarte BautenKommentar:SubmitThere was an error submitting your form.",
         "keywords": "",
         "tags": "",
         "callout": "",
@@ -92,9 +92,7 @@
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
         "lastModifiedDate": "2019-03-17T12:42:06+0000",
-        "template": "default",
-        "customHeader": "",
-        "customFooter": ""
+        "template": "default"
     },
     {
         "title": "Error",
@@ -112,7 +110,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:15:46+0000",
+        "lastModifiedDate": "2019-03-17T12:21:15+0000",
         "template": "default"
     },
     {
@@ -131,7 +129,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:15:46+0000",
+        "lastModifiedDate": "2019-03-17T12:21:15+0000",
         "template": "default"
     },
     {
@@ -150,7 +148,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:15:46+0000",
+        "lastModifiedDate": "2019-03-17T12:21:15+0000",
         "template": "default"
     }
 ]
