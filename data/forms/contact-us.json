@@ -21,6 +21,16 @@
             "cssClass": ""
         },
         {
+            "id": "adresse",
+            "label": "Adresse:",
+            "type": "text",
+            "required": "false",
+            "options": "",
+            "helperText": "",
+            "placeholder": "",
+            "cssClass": ""
+        },
+        {
             "id": "email",
             "label": "E-Mail:",
             "type": "text",
