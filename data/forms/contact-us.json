@@ -22,7 +22,7 @@
         },
         {
             "id": "adresse",
-            "label": "Adresse:",
+            "label": "Standort \/ Adresse:",
             "type": "text",
             "required": "false",
             "options": "",
@@ -65,7 +65,7 @@
             "label": "Voraussetzungen f\u00fcr einen Aufbau schon gegeben?",
             "type": "checklist",
             "required": "false",
-            "options": "Bewilligung vorhanden, Dachzugang m\u00f6glich, Freie Sicht \u00fcber die Nachbard\u00e4cher",
+            "options": "Bewilligung vorhanden, Dachzugang gestattet, Freie Sicht \u00fcber benachbarte Bauten",
             "helperText": "",
             "placeholder": "",
             "cssClass": ""
