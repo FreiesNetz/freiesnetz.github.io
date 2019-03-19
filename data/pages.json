@@ -15,7 +15,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:21:15+0000",
+        "lastModifiedDate": "2019-03-17T12:46:21+0000",
         "template": "default"
     },
     {
@@ -34,7 +34,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:21:15+0000",
+        "lastModifiedDate": "2019-03-17T12:46:21+0000",
         "template": "default"
     },
     {
@@ -53,10 +53,8 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-19T12:20:30+0000",
-        "template": "home",
-        "customHeader": "",
-        "customFooter": ""
+        "lastModifiedDate": "2019-03-19T12:23:06+0000",
+        "template": "home"
     },
     {
         "title": "Idee",
@@ -75,9 +73,7 @@
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
         "lastModifiedDate": "2019-03-17T13:08:33+0000",
-        "template": "default",
-        "customHeader": "",
-        "customFooter": ""
+        "template": "default"
     },
     {
         "title": "Kontakt",
@@ -95,7 +91,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:42:06+0000",
+        "lastModifiedDate": "2019-03-17T12:46:21+0000",
         "template": "default"
     },
     {
@@ -114,7 +110,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:21:15+0000",
+        "lastModifiedDate": "2019-03-17T12:46:21+0000",
         "template": "default"
     },
     {
@@ -133,7 +129,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:21:15+0000",
+        "lastModifiedDate": "2019-03-17T12:46:21+0000",
         "template": "default"
     },
     {
@@ -152,7 +148,7 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:21:15+0000",
+        "lastModifiedDate": "2019-03-17T12:46:21+0000",
         "template": "default"
     }
 ]
