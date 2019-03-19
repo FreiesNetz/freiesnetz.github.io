@@ -40,7 +40,7 @@
     {
         "title": "Home",
         "description": "Willkommen auf unserer Webseite",
-        "text": "FreiesNetz - Das organisierte Brgernetzwerk Unabhngige Infrastruktur durch dezentrales Netzwerk. Jeder Teilnehmer erweitert das Netzwerk, wird automatisch Teil davon und ermglicht dadurch weiteren Ausbau.Je mehr Teilnehmer, desto mehr Mglichkeiten auf mehr Performance im Netz. Mitmachen! Netzwerk FreiesNetz ist eine offene Initiative fr alle Netzwerke. Jede Person stellt ihren Knoten anderen zur Datenbertragung (nach den Grundstzen des&nbsp;Pico Peering Agreement) zur Verfgung und ermglicht damit den Datenverkehr innerhalb des Netzes.&nbsp;Alle Knoten im Netz kommunizieren hierarchielos untereinander und bilden ein gemeinsames Funknetzwerk ber den Dchern. Dabei gibt es keine Zentrale, jeder Knoten ist mit mehreren anderen Knoten verbunden. Wenn ein Knoten aus dem Netzwerk ausfllt suchen dessen Nachbarn automatisch eine andere Route.&nbsp; settings_remote Richt-Funk Durch Nutzung von gerichteten Funk-Signalen knnen auch Gebude versorgt werden, welche noch nicht mit Kabelverbindung wie z.B. DSL oder Glasfaser erschlossen sind. settings_ethernet Dezentral Verbindungen sind nach keinem besonderen Schema angeordnet, die einzelnen Knoten sind untereinander mehrfach miteinander verbunden (vermascht). network_check Performant Fokus auf wichtige Performance-relevante Parameter damit soviel Bandbreite wie mglich beim Endanwender ankommt bzw. abtransportiert werden kann.",
+        "text": ":: FreiesNetz ::Das Brgernetz mit Servicegedanken Unabhngige Infrastruktur durch dezentrales Netzwerk. Jeder Teilnehmer erweitert das Netzwerk, wird automatisch Teil davon und ermglicht dadurch weiteren Ausbau.Je mehr Teilnehmer, desto mehr Mglichkeiten auf mehr Performance im Netz. Mitmachen! Netzwerk FreiesNetz ist eine offene Initiative fr alle Netzwerke. Jede Person stellt ihren Knoten anderen zur Datenbertragung (nach den Grundstzen des&nbsp;Pico Peering Agreement) zur Verfgung und ermglicht damit den Datenverkehr innerhalb des Netzes.&nbsp;Alle Knoten im Netz kommunizieren hierarchielos untereinander und bilden ein gemeinsames Funknetzwerk ber den Dchern. Dabei gibt es keine Zentrale, jeder Knoten ist mit mehreren anderen Knoten verbunden. Wenn ein Knoten aus dem Netzwerk ausfllt suchen dessen Nachbarn automatisch eine andere Route.&nbsp; settings_remote Richt-Funk Durch Nutzung von gerichteten Funk-Signalen knnen auch Gebude versorgt werden, welche noch nicht mit Kabelverbindung wie z.B. DSL oder Glasfaser erschlossen sind. settings_ethernet Dezentral Verbindungen sind nach keinem besonderen Schema angeordnet, die einzelnen Knoten sind untereinander mehrfach miteinander verbunden (vermascht). network_check Performant Fokus auf wichtige Performance-relevante Parameter damit soviel Bandbreite wie mglich beim Endanwender ankommt bzw. abtransportiert werden kann.",
         "keywords": "",
         "tags": "",
         "callout": "",
@@ -53,8 +53,10 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-17T12:21:15+0000",
-        "template": "home"
+        "lastModifiedDate": "2019-03-19T12:11:39+0000",
+        "template": "home",
+        "customHeader": "",
+        "customFooter": ""
     },
     {
         "title": "Idee",
