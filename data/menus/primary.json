@@ -6,7 +6,7 @@
             "html": "Wien-Map &nbsp; |",
             "cssClass": "",
             "isNested": false,
-            "url": "https:\/\/map.funkfeuer.at\/nodemap\/map-freiesnetz.html",
+            "url": "https:\/\/map.funkfeuer.at\/nodemap\/map-freiesnetz",
             "target": "_blank"
         },
         {
@@ -14,6 +14,13 @@
             "isNested": false,
             "html": "Idee",
             "url": "page\/about",
+            "target": ""
+        },
+        {
+            "html": "FAQ",
+            "cssClass": "",
+            "isNested": false,
+            "url": "page\/faq",
             "target": ""
         },
         {
