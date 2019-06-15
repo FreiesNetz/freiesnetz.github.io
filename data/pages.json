@@ -1,9 +1,9 @@
 [
     {
-        "title": "Fotos",
+        "title": "FreiesNetz - Fotos",
         "description": "Montagebeispiele",
         "text": "Fotos Montage Beispiele",
-        "keywords": "",
+        "keywords": "Freies Netz frei libre netzwerk funk wireless",
         "tags": "",
         "callout": "",
         "url": "gallery",
@@ -15,14 +15,16 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-26T22:15:25+0000",
-        "template": "default"
+        "lastModifiedDate": "2019-06-15T21:30:52+0000",
+        "template": "default",
+        "customHeader": null,
+        "customFooter": null
     },
     {
-        "title": "Home",
-        "description": "Willkommen auf unserer Webseite",
+        "title": "FreiesNetz - Home",
+        "description": "Willkommen im Freien Netz!",
         "text": "::FreiesNetz:: ein organisiertes Brgernetz mit Service .Unabhngige Infrastruktur durch dezentrales Netzwerk. Jeder weitere Teilnehmer verbessert und erweitert das Netzwerk, wird damit automatisch Teil davon und ermglicht dadurch schnelleren Service sowie bessere Netzabdeckung. Mitmachen! Je mehr Teilnehmer, desto mehr Mglichkeiten auf mehr Performance im Netz. Netzwerk FreiesNetz ist eine offene Initiative fr alle Netzwerke. Jede Person stellt ihren Knoten anderen zur Datenbertragung (nach den Grundstzen des&nbsp;Pico Peering Agreement) zur Verfgung und ermglicht damit den Datenverkehr innerhalb des Netzes.&nbsp;Alle Knoten im Netz kommunizieren hierarchielos untereinander und bilden ein gemeinsames Funknetzwerk ber den Dchern. Dabei gibt es keine Zentrale, jeder Knoten ist mit mehreren anderen Knoten verbunden. Wenn ein Knoten aus dem Netzwerk ausfllt suchen dessen Nachbarn automatisch eine andere Route.&nbsp; settings_remote Richt-Funk Durch Nutzung von gerichteten Funk-Signalen knnen auch Gebude versorgt werden, welche noch nicht mit Kabelverbindung wie z.B. DSL oder Glasfaser erschlossen sind. settings_ethernet Dezentral Verbindungen sind nach keinem besonderen Schema angeordnet, die einzelnen Knoten sind untereinander mehrfach miteinander verbunden (vermascht). network_check Performant Fokus auf wichtige Performance-relevante Parameter damit soviel Bandbreite wie mglich beim Endanwender ankommt bzw. abtransportiert werden kann.",
-        "keywords": "",
+        "keywords": "Freies Netz frei libre netzwerk funk wireless",
         "tags": "",
         "callout": "",
         "url": "index",
@@ -34,14 +36,16 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-28T16:48:19+0000",
-        "template": "home"
+        "lastModifiedDate": "2019-06-15T21:30:29+0000",
+        "template": "home",
+        "customHeader": null,
+        "customFooter": null
     },
     {
-        "title": "Idee",
+        "title": "FreiesNetz - Idee",
         "description": "Learn more about us",
-        "text": "Idee \"FreiesNetz\" Was?FreiesNetz ist eine offene Initiative fr alle Netzwerke. Es soll dabei ein gemeinsam reguliertes Netz entstehen, welches das Potential hat, den digitalen Graben zwischen den sozialen Schichten zu berbrcken und so jedem Menschen bestmgliche Infrastruktur und Wissen zur Verfgung zu stellen. Jede Person stellt ihren Knoten anderen Personen zur Datenbertragung nach den Grundstzen des Pico Peering Agreement zur Verfgung und ermglicht damit freien Datenverkehr innerhalb des Netzes. Jeder Knoten im Netz wird von Freiwilligen aufgebaut und betrieben, die Community stellt dazu Know-How und auch praktische Hilfen bereit.Das Wort \"frei\" in unserem Namen bezieht sich nicht auf den Preis, es bezieht sich auf Freiheit: Die Freiheit, einen Knoten-Aufbau zu kopieren und an eure Nachbarn weiterzugeben, so dass sie das Netzwerk ebenso wie ihr nutzen knnen.Die Freiheit, im Netz selbst mit zu wirken, so dass ihr das Netzwerk beherrscht und nicht das Netzwerk euch; zu diesem Zwecke muss euch der Zugang bzw. Konfigurationen verfgbar gemacht sein.Wie? Alle Knoten im Netz kommunizieren hierarchielos untereinander und bilden ein gemeinsames Funknetzwerk ber den Dchern. Dabei gibt es keine Zentrale, jeder Knoten ist mit mehreren anderen Knoten verbunden. Wenn ein Knoten aus dem Netzwerk ausfllt suchen dessen Nachbarn automatisch eine andere Route. Einige Knoten bilden einen direkten bergang ins Internet, womit alle Menschen im Netz Teil des globalen Internets sind.Mitmachen?Jeder kann mitmachen, wir bauen unser Netzwerk selbst! Wo?Bisher deckt das Netzwerk den Bereich Wien und Umgebung ab.Historie der betreuten Standorte: (derzeit in Summe 54, davon 45 aktiv)seit - Bezirk - Name2010 - 1140 - bec22010 - 1160 - mat4 (bersiedlung 2019 -&gt; koh20)2013 - 1150 - fen422013 - 1170 - duer92013 - 1230 - bfs2562013 - 1160 - fl492013 - 1190 - gri8 (derzeit inaktiv)2013 - 1190 - gri1212013 - 1190 - hw482013 - 1150 - kobe42013 - 1090 - lat7 (derzeit inaktiv)2013 - 1190 - mh2013 - 1140 - ows02013 - 1090 - wuk2013 - 1110 - zsig52014 - 1150 - arn222014 - 1140 - bm52014 - 1090 - frieden2014 - 1130 - gob34 (derzeit inaktiv - Dachrenovierung 2018\/2019)2014 - 1170 - gs152014 - 1100 - nessus (@0xff)2015 - 1170 - bal32015 - 1180 - cza442015 - 1130 - feh392015 - 1190 - gri1062015 - 1120 - oswald52015 - 1140 - ows22015 - 1100 - quell1652015 - 1130 - veit53 (derzeit inaktiv - Dachrenovierung 2018\/2019)2016 - 1010 - goz192016 - 1210 - jed992016 - 1010 - kr32016 - 1140 - lsg332016 - 1140 - nacht11 (@schulti)2016 - 1220 - pod412016 - 1020 - vor2032017 - 1100 - lax22017 - 2100 - biss (@akku)&nbsp;2018 - 1190 - ber132018 - 1020 - eng1962018 - 1020 - obdo92018 - 1170 - ros782019 - 1030 - bea142019 - 1160 - gau472019 - 1210 - kol332019 - 1210 - lhg122019 - 1170 - ver122019 -&nbsp;2331 - haid402019 - 1160 - koh20 (derzeit inaktiv)2019 - 1210 - kss82019 - 1040 - kol (derzeit inaktiv)2019 - 1040 - wdn (derzeit inaktiv)2019 - 1180 - naa142019 - 1140 - gurk46",
-        "keywords": "",
+        "text": "Idee \"FreiesNetz\" Was?FreiesNetz ist eine offene Initiative fr alle Netzwerke. Es soll dabei ein gemeinsam reguliertes Netz entstehen, welches das Potential hat, den digitalen Graben zwischen den sozialen Schichten zu berbrcken und so jedem Menschen bestmgliche Infrastruktur und Wissen zur Verfgung zu stellen. Jede Person stellt ihren Knoten anderen Personen zur Datenbertragung nach den Grundstzen des Pico Peering Agreement zur Verfgung und ermglicht damit freien Datenverkehr innerhalb des Netzes. Jeder Knoten im Netz wird von Freiwilligen aufgebaut und betrieben, die Community stellt dazu Know-How und auch praktische Hilfen bereit.Das Wort \"frei\" in unserem Namen bezieht sich nicht auf den Preis, es bezieht sich auf Freiheit: Die Freiheit, einen Knoten-Aufbau zu kopieren und an eure Nachbarn weiterzugeben, so dass sie das Netzwerk ebenso wie ihr nutzen knnen.Die Freiheit, im Netz selbst mit zu wirken, so dass ihr das Netzwerk beherrscht und nicht das Netzwerk euch; zu diesem Zwecke muss euch der Zugang bzw. Konfigurationen verfgbar gemacht sein.Wie? Alle Knoten im Netz kommunizieren hierarchielos untereinander und bilden ein gemeinsames Funknetzwerk ber den Dchern. Dabei gibt es keine Zentrale, jeder Knoten ist mit mehreren anderen Knoten verbunden. Wenn ein Knoten aus dem Netzwerk ausfllt suchen dessen Nachbarn automatisch eine andere Route. Einige Knoten bilden einen direkten bergang ins Internet, womit alle Menschen im Netz Teil des globalen Internets sind.Mitmachen?Jeder kann mitmachen, wir bauen unser Netzwerk selbst! Wo?Bisher deckt das Netzwerk den Bereich Wien und Umgebung ab.Historie der betreuten Standorte: (derzeit in Summe 54, davon 47 aktiv)seit - Bezirk - Name2010 - 1140 - bec22013 - 1150 - fen422013 - 1170 - duer92013 - 1230 - bfs2562013 - 1160 - fl492013 - 1190 - gri8 (derzeit inaktiv)2013 - 1190 - gri1212013 - 1190 - hw482013 - 1150 - kobe42013 - 1090 - lat7 (derzeit inaktiv)2013 - 1190 - mh2013 - 1140 - ows02013 - 1090 - wuk2013 - 1110 - zsig52014 - 1150 - arn222014 - 1140 - bm52014 - 1090 - frieden2014 - 1130 - gob34 (derzeit inaktiv - Dachrenovierung 2018\/2019)2014 - 1170 - gs152014 - 1100 - nessus (@0xff)2015 - 1170 - bal32015 - 1180 - cza442015 - 1130 - feh392015 - 1190 - gri1062015 - 1120 - oswald52015 - 1140 - ows22015 - 1100 - quell1652015 - 1130 - veit53 (derzeit inaktiv - Dachrenovierung 2018\/2019)2016 - 1010 - goz192016 - 1210 - jed992016 - 1010 - kr32016 - 1140 - lsg332016 - 1140 - nacht11 (@schulti)2016 - 1220 - pod412016 - 1020 - vor2032017 - 1100 - lax22017 - 2100 - biss (@akku)&nbsp;2018 - 1190 - ber132018 - 1020 - eng1962018 - 1020 - obdo92018 - 1170 - ros782019 - 1030 - bea142019 - 1160 - gau472019 - 1210 - kol332019 - 1210 - lhg122019 - 1170 - ver122019 -&nbsp;2331 - haid402019 - 1160 - koh20 (derzeit inaktiv, bersiedlung, war:&nbsp;2010 - 1160 - mat4)2019 - 1210 - kss82019 - 1040 - kol (derzeit inaktiv)2019 - 1040 - wdn (derzeit inaktiv)2019 - 1180 - naa142019 - 1140 - gurk46",
+        "keywords": "Freies Netz frei libre netzwerk funk wireless",
         "tags": "",
         "callout": "",
         "url": "page\/about",
@@ -53,14 +57,16 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-06-08T20:45:22+0000",
-        "template": "default"
+        "lastModifiedDate": "2019-06-15T21:30:59+0000",
+        "template": "default",
+        "customHeader": "",
+        "customFooter": ""
     },
     {
-        "title": "Kontakt",
+        "title": "FreiesNetz - Kontakt",
         "description": "Get in touch using our contact form",
         "text": "VoranmeldungWir sind laufend auf der Suche nach weiteren Standorten. Bei Interesse bitte folgendes Formular ausfllen.Bei Adresse wird nur Strasse\/Gasse mit Hausnummer bentigt um vorab eine Verfgbarkeit abzuschtzen.Bitte auch um Angabe von E-Mail Adresse und\/oder Telefon Nummer!* Name:Standort \/ Adresse:E-Mail:Telefon:* Bevorzugte Kontaktaufnahme:E-Mail TelefonVoraussetzungen fr einen Aufbau schon gegeben?Bewilligung vorhanden (bzw. Eigentum) Dachzugang gestattet Freie Sicht ber benachbarte BautenKommentar:SubmitThere was an error submitting your form.",
-        "keywords": "",
+        "keywords": "Freies Netz frei libre netzwerk funk wireless",
         "tags": "",
         "callout": "",
         "url": "page\/contact",
@@ -72,11 +78,13 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-26T22:15:25+0000",
-        "template": "default"
+        "lastModifiedDate": "2019-06-15T21:30:40+0000",
+        "template": "default",
+        "customHeader": null,
+        "customFooter": null
     },
     {
-        "title": "Error",
+        "title": "FreiesNetz - Error",
         "description": "The page you were looking for could not be found",
         "text": "Error notFound",
         "keywords": "",
@@ -91,14 +99,16 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-03-26T22:15:25+0000",
-        "template": "default"
+        "lastModifiedDate": "2019-06-15T21:30:17+0000",
+        "template": "default",
+        "customHeader": null,
+        "customFooter": null
     },
     {
-        "title": "FAQ",
+        "title": "FreiesNetz - FAQ",
         "description": "Frequently Asked Questions",
         "text": "Fragen F: Welche Bandbreite habe ich?A: asasdaIdeeLearn more about usFAQFrequently Asked QuestionsKontaktGet in touch using our contact formErrorThe page you were looking for could not be found",
-        "keywords": "",
+        "keywords": "Freies Netz frei libre netzwerk funk wireless",
         "tags": "",
         "callout": "",
         "url": "page\/faq",
@@ -110,8 +120,10 @@
         "firstName": "Christoph",
         "lastName": "Loesch",
         "lastModifiedBy": "mail@chil.at",
-        "lastModifiedDate": "2019-04-20T06:14:44+0000",
-        "template": "default"
+        "lastModifiedDate": "2019-06-15T21:30:55+0000",
+        "template": "default",
+        "customHeader": null,
+        "customFooter": null
     },
     {
         "title": "Another Blog Post",
